@@ -1,4 +1,3 @@
-
 # The `who` command
 
 The `who` command lets you print out list of logged in users, current run level of the system and time of last system boot.
